@@ -103,9 +103,8 @@ Contributions are welcomed and deeply appreciated! If you know of an open-source
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Visual-Workflow-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Visual-Workflow-Automation&type=date&legend=top-left)
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Visual-Workflow-Automation&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Visual-Workflow-Automation&type=date&legend=top-left)
 
 ---
 
